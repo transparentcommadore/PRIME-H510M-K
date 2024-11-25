@@ -1,4 +1,4 @@
-[GUIDE] Installing macOS Monterey (14.x) / Ventura (15.x) on PRIME-H510M-K [OpenCore 0.9.9 - 1.0.2]
+[GUIDE] Installing macOS Sonoma (14.x) / Ventura (15.x) on PRIME-H510M-K [OpenCore 0.9.9 - 1.0.2]
 
 OPENCORE bootloader for installation on 10-gn processors (Intel Comet Lake-S)
 EFI for PRIME-H510K motherboard.
