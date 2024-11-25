@@ -11,7 +11,8 @@ Add extra kexts
     Lilu for patches
     USBports for init and mapping USB 2.0/3.0
     VirtualSMC
-    Airportitlwm, IntelBluetoothFirmware (IOSkywalkFamily.kext, IO80211FamilyLegacy.kext - https://github.com/OpenIntelWireless/itlwm/issues/1009#issuecomment-2370919270) for AX210
+    Airportitlwm, IntelBluetoothFirmware for AX210 
+    IOSkywalkFamily.kext, IO80211FamilyLegacy.kext (https://github.com/OpenIntelWireless/itlwm/issues/1009#issuecomment-2370919270) for AX210
 
 Custom ACPI (optional)
 
