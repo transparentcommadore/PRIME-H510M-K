@@ -4,15 +4,14 @@ OpenCore 0.9.9 - 1.0.2
 
 OPENCORE bootloader for installation on 10-gn processors (Intel Comet Lake-S) EFI for Asus Prime H510M-K DDR4 motherboard.
 
-Add extra kexts
-
-IntelMausi for Intel Ethernet;
-AppleALC for universial patch audio;
-WhateverGreen for enable GPU AMD;
-Lilu for patches;
-AllUSBInject for init and mapping USB 2.0/3.0;
-VirtualSMC;
-Intel Airportitlwm, IntelBluetoothFirmware for AX210;
+Add extra kexts:
+IntelMausi for Intel Ethernet
+AppleALC for universial patch audio
+WhateverGreen for enable GPU AMD
+Lilu for patches
+AllUSBInject for init and mapping USB 2.0/3.0
+VirtualSMC
+Intel Airportitlwm, IntelBluetoothFirmware for AX210
 
 Custom ACPI (optional)
 
