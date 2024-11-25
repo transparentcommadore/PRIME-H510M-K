@@ -8,7 +8,7 @@ IntelMausi for Intel Ethernet;
 AppleALC for universial patch audio;
 WhateverGreen for enable GPU AMD;
 Lilu for patches;
-USBports for init and mapping USB 2.0/3.0;
+AllUSBInject for init and mapping USB 2.0/3.0;
 VirtualSMC;
 Intel Airportitlwm, IntelBluetoothFirmware for AX210;
 
