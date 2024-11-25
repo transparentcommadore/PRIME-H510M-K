@@ -1,5 +1,7 @@
 [GUIDE] Installing macOS Monterey (12.x) / Ventura (13.x) / Sonoma (14.x) / Sequoia (15.x) on Asus Prime H510M-K
 
+OpenCore 0.9.9 - 1.0.2
+
 OPENCORE bootloader for installation on 10-gn processors (Intel Comet Lake-S) EFI for Asus Prime H510M-K DDR4 motherboard.
 
 Add extra kexts
