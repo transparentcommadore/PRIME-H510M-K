@@ -4,30 +4,30 @@ OPENCORE bootloader for installation on 10-gn processors (Intel Comet Lake-S) EF
 
 Add extra kexts
 
-IntelMausi for Intel Ethernet
-AppleALC for universial patch audio
-WhateverGreen for enable GPU AMD
-Lilu for patches
-USBports for init and mapping USB 2.0/3.0
-VirtualSMC
-Intel Airportitlwm, IntelBluetoothFirmware for AX210
+IntelMausi for Intel Ethernet;
+AppleALC for universial patch audio;
+WhateverGreen for enable GPU AMD;
+Lilu for patches;
+USBports for init and mapping USB 2.0/3.0;
+VirtualSMC;
+Intel Airportitlwm, IntelBluetoothFirmware for AX210;
 
 Custom ACPI (optional)
 
-SSDT-AWAC-DISABLE.aml
-SSDT-EC-USBX.aml
-SSDT-PLUG-ALT.aml
+SSDT-AWAC-DISABLE.aml;
+SSDT-EC-USBX.aml;
+SSDT-PLUG-ALT.aml;
 
 Disabled:
-Fast Boot
-VT-d (enable if DisableMapper Quirks set True)
-CFG Lock
-Secure Boot
-Parallel Port
-Serial Port
-Resizable BAR Support
-Enabled:
+Fast Boot;
+VT-d (enable if DisableMapper Quirks set True);
+CFG Lock;
+Secure Boot;
+Parallel Port;
+Serial Port;
+Resizable BAR Support;
 
+Enabled:
 VT-x
 UEFI startup mode
 Above 4G decoding
